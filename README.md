@@ -138,13 +138,13 @@ VALUES (1, '2022-01-01', 'Instrutor A', '09:00:00', '11:00:00', 'Voo bem-sucedid
 SELECT * FROM Socio
 ````
 
-![img](\img\SELECT_socio.png)
+![img](img/SELECT_socio.png)
 
 ````SQL
 SELECT * FROM Piloto
 ````
 
-![img](img\SELECT_piloto.png)
+![img](img/SELECT_piloto.png)
 
 `````SQL
 SELECT * FROM Instrutor
