@@ -150,19 +150,19 @@ SELECT * FROM Piloto
 SELECT * FROM Instrutor
 `````
 
-![img](\img\SELECT_instrutor.png)
+![img](img/SELECT_instrutor.png)
 
 ````sql
 SELECT * FROM Aluno
 ````
 
-![img](img\SELECT_aluno.png)
+![img](img/SELECT_aluno.png)
 
 ````SQL
 SELECT * FROM Saida
 ````
 
-![img](img\SELECT_saida.png)
+![img](img/SELECT_saida.png)
 
 
 
